@@ -8,9 +8,8 @@ Key Objectives:
 - Data Cleaning & Structuring: Prepared the JAS resource dataset for analysis and insights.
 
 Technologies:
-Python, GeoPandas, ArcGIS: Used for data cleaning, mapping, and visualization.
-NLP: Applied to analyze foster care podcast transcripts.
+Python, GeoPandas, ArcGIS, NLTK, TextBlob
 
 Outcomes:
-Identified resource gaps in rural areas.
-Highlighted the need for improved access to resources for former foster care youth.
+- Identified resource gaps in rural areas.
+- Highlighted the need for improved access to resources for former foster care youth.
